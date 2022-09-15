@@ -1,0 +1,307 @@
+{
+  "data": [
+    {
+      "Date": "08/23/2022",
+      "User": "Federico Rivollier",
+      "Project":"My project",
+      "Activity": "Billable",
+      "Issue": "Task #90175: Weekly status meeting / June, July, August",
+      "Comment": "Weekly status meeting",
+      "Hours": "0.5"
+    },
+    {
+      "Date": "08/23/2022",
+      "User": "Federico Rivollier",
+      "Project": "My project",
+      "Activity": "Billable",
+      "Issue": "Deployment #92624: Deployment 1.6.3",
+      "Comment": "Production deployment - smoke testing",
+      "Hours": "0.5"
+    },
+    {
+      "Date": "08/23/2022",
+      "User": "Federico Rivollier",
+      "Project": "My project",
+      "Activity": "Billable",
+      "Issue": "Deployment #92624: Deployment 1.6.3",
+      "Comment": "Production deployment - release 1.6.3",
+      "Hours": "0.5"
+    },
+    {
+      "Date": "08/22/2022",
+      "User": "Federico Rivollier",
+      "Project": "My project",
+      "Activity": "Billable",
+      "Issue": "Task to Analyse #92406: PF \u0026 SV Orders without CC Tokens",
+      "Comment": "Prepare MR to be code reviewed. Fix code review feedback.",
+      "Hours": "1"
+    },
+    {
+      "Date": "08/22/2022",
+      "User": "Federico Rivollier",
+      "Project": "My project",
+      "Activity": "Billable",
+      "Issue": "Deployment #92624: Deployment 1.6.3",
+      "Comment": "Prepare production deployment process",
+      "Hours": "1"
+    },
+    {
+      "Date": "08/22/2022",
+      "User": "Federico Rivollier",
+      "Project": "My project",
+      "Activity": "Non Billable (nb)",
+      "Issue": "Project Management #91386: dev access / onboarding [Federico]",
+      "Comment": "Weekly team meeting",
+      "Hours": "1"
+    },
+    {
+      "Date": "08/19/2022",
+      "User": "Federico Rivollier",
+      "Project": "My project",
+      "Activity": "Billable",
+      "Issue": "Task to Analyse #92406: PF \u0026 SV Orders without CC Tokens",
+      "Comment": "Test simplicity guest vs registered orders in local env and staging.",
+      "Hours": "1.5"
+    },
+    {
+      "Date": "08/19/2022",
+      "User": "Federico Rivollier",
+      "Project": "My project",
+      "Activity": "Billable",
+      "Issue": "Task to Analyse #92406: PF \u0026 SV Orders without CC Tokens",
+      "Comment": "Investigate and fix issue with simplicity site not saving data correctly.",
+      "Hours": "3"
+    },
+    {
+      "Date": "08/18/2022",
+      "User": "Federico Rivollier",
+      "Project": "My project",
+      "Activity": "Billable",
+      "Issue": "Task to Analyse #92406: PF \u0026 SV Orders without CC Tokens",
+      "Comment": "Test in local environment and staging guest orders vs registered. Verify payment information in Magento DB",
+      "Hours": "2"
+    },
+    {
+      "Date": "08/18/2022",
+      "User": "Federico Rivollier",
+      "Project": "My project",
+      "Activity": "Billable",
+      "Issue": "Task to Analyse #92406: PF \u0026 SV Orders without CC Tokens",
+      "Comment": "Debug and resolve guest customer not sending payment info to Ebizcharge and receiving back token data to be saved in Magento.",
+      "Hours": "6"
+    },
+    {
+      "Date": "08/17/2022",
+      "User": "Federico Rivollier",
+      "Project": "My project",
+      "Activity": "Billable",
+      "Issue": "Task to Analyse #92406: PF \u0026 SV Orders without CC Tokens",
+      "Comment": "Test and debug payment process. Review Ebizcharge payment method code customizations.",
+      "Hours": "5"
+    },
+    {
+      "Date": "08/17/2022",
+      "User": "Federico Rivollier",
+      "Project": "My project",
+      "Activity": "Billable",
+      "Issue": "Task to Analyse #92406: PF \u0026 SV Orders without CC Tokens",
+      "Comment": "Configure staging environment: restricted countries, Ebizcharge payment sanbox API details. Configure local environment with Ebizcharge sandbox API details. Test payment process with sandbox.",
+      "Hours": "3"
+    },
+    {
+      "Date": "08/16/2022",
+      "User": "Federico Rivollier",
+      "Project": "My project",
+      "Activity": "Non Billable (nb)",
+      "Issue": "Project Management #91386: dev access / onboarding [Federico]",
+      "Comment": "Help frontend dev (Gabriela) to setup local environment",
+      "Hours": "1"
+    },
+    {
+      "Date": "08/16/2022",
+      "User": "Federico Rivollier",
+      "Project": "My project",
+      "Activity": "Billable",
+      "Issue": "Task to Analyse #92406: PF \u0026 SV Orders without CC Tokens",
+      "Comment": "Search for information in server logs. Download logs, merge them for facilitating issue search. Review customer purchase logic, ebizcharge payment method, how data is saved in Magento DB. Review order export process. ",
+      "Hours": "8"
+    },
+    {
+      "Date": "08/16/2022",
+      "User": "Federico Rivollier",
+      "Project": "My project",
+      "Activity": "Billable",
+      "Issue": "Task (Beyond Estimation) #92063: PP WEEKLY [August]",
+      "Comment": "Weekly standup call",
+      "Hours": "0.58"
+    },
+    {
+      "Date": "08/16/2022",
+      "User": "Federico Rivollier",
+      "Project": "My project",
+      "Activity": "Billable",
+      "Issue": "Task #90175: Weekly status meeting / June, July, August",
+      "Comment": "Weekly standup call",
+      "Hours": "0.25"
+    },
+    {
+      "Date": "08/15/2022",
+      "User": "Federico Rivollier",
+      "Project": "My project",
+      "Activity": "Non Billable (nb)",
+      "Issue": "Project Management #91386: dev access / onboarding [Federico]",
+      "Comment": "Help frontend developer (Kauan) to setup his local environment",
+      "Hours": "1"
+    },
+    {
+      "Date": "08/15/2022",
+      "User": "Federico Rivollier",
+      "Project": "My project",
+      "Activity": "Billable",
+      "Issue": "Task to Analyse #92406: PF \u0026 SV Orders without CC Tokens",
+      "Comment": "Call with client to discuss cc token not sent via order export",
+      "Hours": "1"
+    },
+    {
+      "Date": "08/15/2022",
+      "User": "Federico Rivollier",
+      "Project": "My project",
+      "Activity": "Billable",
+      "Issue": "Task to Analyse #92406: PF \u0026 SV Orders without CC Tokens",
+      "Comment": "Review code repository changes. Try to identify what changed for cc token not being saved in magento DB",
+      "Hours": "2"
+    },
+    {
+      "Date": "08/15/2022",
+      "User": "Federico Rivollier",
+      "Project": "My project",
+      "Activity": "Billable",
+      "Issue": "Task to Analyse #92318: Authorization Amounts on Customer Card in Error",
+      "Comment": "",
+      "Hours": "4"
+    },
+    {
+      "Date": "08/15/2022",
+      "User": "Federico Rivollier",
+      "Project": "My project",
+      "Activity": "Non Billable (nb)",
+      "Issue": "Project Management #92408: [IP Dev] Team Shaberico - weekly standup meeting + general onboarding / ramp-up",
+      "Comment": "Weekly standup call",
+      "Hours": "1.25"
+    },
+    {
+      "Date": "08/10/2022",
+      "User": "Federico Rivollier",
+      "Project": "My project",
+      "Activity": "Billable",
+      "Issue": "Task #91764: Tacony B2C - Project Onboarding [Federico]",
+      "Comment": "Tacony B2C onboarding call.",
+      "Hours": "1.75"
+    },
+    {
+      "Date": "08/09/2022",
+      "User": "Federico Rivollier",
+      "Project": "My project",
+      "Activity": "Billable",
+      "Issue": "Task #91764: Tacony B2C - Project Onboarding [Federico]",
+      "Comment": "Tacony B2C onboarding review call.",
+      "Hours": "1.75"
+    },
+    {
+      "Date": "08/09/2022",
+      "User": "Federico Rivollier",
+      "Project": "My project",
+      "Activity": "Billable",
+      "Issue": "Task (Beyond Estimation) #92063: PP WEEKLY [August]",
+      "Comment": "Weekly Packaging Price project update call",
+      "Hours": "0.75"
+    },
+    {
+      "Date": "08/09/2022",
+      "User": "Federico Rivollier",
+      "Project": "My project",
+      "Activity": "Billable",
+      "Issue": "Project Management #91761: Packaging Price - Project Onboarding [Federico]",
+      "Comment": "Setup local environment. Configure environment and verify main functionalities",
+      "Hours": "16"
+    },
+    {
+      "Date": "08/04/2022",
+      "User": "Federico Rivollier",
+      "Project": "My project",
+      "Activity": "Billable",
+      "Issue": "Task to Analyse #92037: [Discovery] Implement live inventory status updates on PDP",
+      "Comment": "Discovery call to discuss possible implementations for live inventory updates.",
+      "Hours": "0.75"
+    },
+    {
+      "Date": "08/04/2022",
+      "User": "Federico Rivollier",
+      "Project": "My project",
+      "Activity": "Billable",
+      "Issue": "Task (Beyond Estimation) #92070: [Project Takeover] Project Hand-Off Prep and Calls / Follow-ups with Adobe",
+      "Comment": "Call to follow up hand-off next steps",
+      "Hours": "0.5"
+    },
+    {
+      "Date": "08/03/2022",
+      "User": "Federico Rivollier",
+      "Project": "My project",
+      "Activity": "Billable",
+      "Issue": "Task #90311: TACONY / set up local environment BE dev - taconyonline.com",
+      "Comment": "Setup local environment (pwa frontend app + backend magento)",
+      "Hours": "12"
+    },
+    {
+      "Date": "08/02/2022",
+      "User": "Federico Rivollier",
+      "Project": "My project",
+      "Activity": "Billable",
+      "Issue": "Task (Beyond Estimation) #92070: [Project Takeover] Project Hand-Off Prep and Calls / Follow-ups with Adobe",
+      "Comment": "Project hand-off call with Tacony and Adobe",
+      "Hours": "0.75"
+    },
+    {
+      "Date": "08/02/2022",
+      "User": "Federico Rivollier",
+      "Project": "My project",
+      "Activity": "Billable",
+      "Issue": "Task (Beyond Estimation) #92063: PP WEEKLY [August]",
+      "Comment": "Weekly Packaging Price project update call",
+      "Hours": "0.75"
+    },
+    {
+      "Date": "08/01/2022",
+      "User": "Federico Rivollier",
+      "Project": "My project",
+      "Activity": "Billable",
+      "Issue": "Project Management #90219: [Backend Code Review] Estimate preliminary (bare min) effort to take over support for taconyonline.com",
+      "Comment": "",
+      "Hours": "16"
+    },
+    {
+      "Date": "07/26/2022",
+      "User": "Federico Rivollier",
+      "Project": "My project",
+      "Activity": "Billable",
+      "Issue": "Task (Beyond Estimation) #91211: PP WEEKLY [July]",
+      "Comment": "Project update status call",
+      "Hours": "0.83"
+    }
+  ],
+  "errors": [],
+  "meta": {
+    "delimiter": ",",
+    "aborted": false,
+    "truncated": false,
+    "cursor": 5430,
+    "fields": [
+      "Date",
+      "User",
+      "Activity",
+      "Issue",
+      "Comment",
+      "Hours"
+    ]
+  }
+}

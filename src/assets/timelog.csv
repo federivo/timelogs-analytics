@@ -1,0 +1,19 @@
+﻿Date,User,Activity,Issue,Comment,Hours
+09/09/2022,Federico Rivollier,Billable,Task to Analyse #91961: [Powr-Flite Filters] Duplicated / missing / not properly named filters for search results.,Investigate Bloomreach extension. Analyze how Bloomreach search works and where it generates its data.,2.50
+09/09/2022,Federico Rivollier,Billable,"Task to Analyse #89684: [BazaarVoice] Update BV implementation in magento for PF, RV & SV",Review scope and comments. Check Bazaar voice's module. Define estimate for pending work.,0.50
+09/09/2022,Federico Rivollier,Billable,Task to Analyse #92590: Separate Inventory for Riccar and Simplicity,Review and update scope and estimates.,0.50
+09/09/2022,Federico Rivollier,Non Billable (nb),Project Management #91386: dev access / onboarding [Federico],Call with Gabriela about Tacony/Alpaca implementation in magento cloud,1.00
+09/09/2022,Federico Rivollier,Billable,Task #90646: Order Stuck On Hold - Not Receiving Signifyd Approval / button in order view,Fix CR issues reported. Re-test user scenarios,2.50
+09/09/2022,Federico Rivollier,Billable,Task #92075: [Order Lifecycle] Magento Order Status Logic to Manage <QuantityCancelled> Value in OrderStatusResponse,Merge code changes in qa branch. Deploy to QA2 environment,0.50
+09/08/2022,Federico Rivollier,Non Billable (nb),Project Management #91386: dev access / onboarding [Federico],Monthly IronPlane Team Gathering,1.00
+09/08/2022,Federico Rivollier,Billable,Task to Analyse #92590: Separate Inventory for Riccar and Simplicity,Call to discuss multi inventory implementation with Tacony and Quivers,0.50
+09/07/2022,Federico Rivollier,Billable,Task #90646: Order Stuck On Hold - Not Receiving Signifyd Approval / button in order view,Implement status change functionality. Create MR.,4.00
+09/06/2022,Federico Rivollier,Billable,Task #90646: Order Stuck On Hold - Not Receiving Signifyd Approval / button in order view,Create module for force unhold button and status change functionality,4.00
+09/06/2022,Federico Rivollier,Billable,"Task #90647: QA staging environment / simplicity, riccar, powr-flite",Review and define pending tasks and estimates,0.50
+09/06/2022,Federico Rivollier,Billable,"Task #90647: QA staging environment / simplicity, riccar, powr-flite",Call with PM to discuss next steps,0.17
+09/06/2022,Federico Rivollier,Billable,"Task #90647: QA staging environment / simplicity, riccar, powr-flite",Call with Adobe and Tacony to review new staging environment status,0.67
+09/06/2022,Federico Rivollier,Billable,"Task #90647: QA staging environment / simplicity, riccar, powr-flite",Review new environment files and configuration,1.00
+09/05/2022,Federico Rivollier,Billable,Task #90646: Order Stuck On Hold - Not Receiving Signifyd Approval / button in order view,Review holded orders. Analyze unhold button implementation,4.00
+09/05/2022,Federico Rivollier,Billable,Task to Analyse #92590: Separate Inventory for Riccar and Simplicity,"Analyze scope, define proposed solution and estimates",2.00
+09/05/2022,Federico Rivollier,Billable,"Task #92649: Weekly status meeting / August, September, October",Weekly status call,0.17
+09/05/2022,Federico Rivollier,Billable,Task #92795: [INTERNAL] Dev weekly standup - Q3 2022,Sync up call,0.17
